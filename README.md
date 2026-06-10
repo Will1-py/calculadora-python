@@ -2,16 +2,16 @@
 
 Proyecto realizado para la asignatura Programación
 
-* Descripción
+* Descripción:
 Esta aplicación fue desarrollada en Python y permite realizar operaciones matemáticas básicas de manera sencilla y funcional
 
-* Funciones
+* Funciones:
 - Suma
 - Resta
 - Multiplicación
 - División
 
-* Autor
+* Autor:
 Wilfran Guerra Cuadros
 Grado 11-7
 I.E.D.T INEM SIMON BOLIVAR
